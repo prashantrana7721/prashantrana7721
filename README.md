@@ -1,6 +1,6 @@
 <h1> Hi Developers !</h1>
 
-<h4>I'm A Passionate Java Full-Stack Developer With Expertise In High-Level And Low-Level Design ( HLD / LLD ) / Design Patterns And Strong Problem-Solving Abilities , Along With My Development Skills I'm A Travel Film-Maker As Well !</h4>
+<h4>I'm A Passionate Java Full-Stack Developer With Expertise In High-Level And Low-Level Design ( HLD / LLD ) / Design Patterns And Strong Problem-Solving Abilities , Along With My Development Skills I'm A Travel Film-Maker And An Endurance Runner As Well !</h4>
 
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
