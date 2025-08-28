@@ -13,6 +13,16 @@ ________________________________________________________________________________
 <h3>Ask Me About</h3>
 • Java / Spring Boot / Microservices / MySql / Kafka / Spring Security / Spring AI / Dev-Ops
 
+<h3>Featured Projects ( That I Actually Use And Are Genuinely Helpful ! )</h3>
+
+- [ [ ai-summarizer ] – AI-Summarizer Assistant ](https://github.com/prashantrana7721/ai-summarizer): The AI-Summarizer Assistant is a powerful , browser-based tool designed to streamline knowledge processing by leveraging Google's Gemini AI . It functions as a seamless sidebar within any webpage, allowing users to instantly summarize long articles and extract key points on the fly . Built with a robust Spring Boot backend and a simple HTML , CSS , and JavaScript frontend , this application provides an intuitive and reliable solution for content operations directly in your browser .
+- [ [ ai-mailreply ] – AI-Email-Reply Assistant ](https://github.com/prashantrana7721/ai-mailreply): The AI-Email-Reply-Assistant is a browser-based tool that uses Google's Gemini AI to automatically generate intelligent and context-aware email responses . Seamlessly integrated with email clients via a Chrome extension , it analyzes the original email content to craft accurate replies . The application is powered by a robust backend built with Java and Spring Boot , ensuring a scalable and reliable service for on-the-fly email assistance .
+- [ [ ai-interview ] – AI-Interview Evaluator ( In - Progress ) ](https://github.com/prashantrana7721/ai-interview): AI-Interview is a real-time , AI-powered interview evaluation platform built with Spring Boot , Docker , and FastAPI microservices . It addresses the subjectivity and inconsistency of traditional interviews by providing semantic scoring , sentiment detection , and structured feedback in real time through a clean HTML interface . This scalable , AI-driven system helps recruiters evaluate candidates fairly and efficiently , while providing candidates with objective feedback on their performance .
+- [ [ ai-ticket ] – AI-Jira-Ticket Assistant ( In - Progress ) ](https://github.com/prashantrana7721/ai-ticket): AI-Ticket is an intelligent meeting assistant built using Spring Boot , Spring AI , and the OpenAI API , designed to automate the process of creating Jira tickets from meeting transcripts . The application analyzes meeting notes to extract actionable items , classifies them into standard ticket types ( e.g., Bug , Feature ) , and automatically detects assignees and priorities . It provides a structured , JSON-formatted output , streamlining the workflow for developers and project managers by transforming unstructured text into ready-to-use , well-organized tickets .
+- [ Stay Tuned For More ( Currently Working On AI-SQL Assistant / AI-PR-BOT / AI-Job-Match Assistant ) ](https://github.com/prashantrana7721):
+
+
+
 • How To Reach Me : **prashantrana7721@gmail.com**
 
 <h3 align="left">Connect With Me :</h3>
